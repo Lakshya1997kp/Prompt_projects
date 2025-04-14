@@ -1,5 +1,6 @@
 # Prompt_projects
 Self made project using the prompt engineering 
+As someone diving deep into Generative AI and LLM-based development, I wanted to explore how far prompt engineering can go in helping create actual frontend projects. This app is a result of that learning journey — where the prompts were my IDE.
 
 you can see the screen shots of my project named : Eco-connect (frontend)
 ![Screenshot 2024-10-14 222950](https://github.com/user-attachments/assets/8a3fe417-76f2-43f4-bd02-ff0bff0bffcd)
